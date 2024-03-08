@@ -24,3 +24,11 @@ Console.WriteLine(quotient);
 d1 = 6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
+
+// Homework
+int a = 1;
+int b = 2;
+int c = 3;
+double d = 4;
+double sum4 = a * b / (c + d);
+Console.WriteLine(sum4);
