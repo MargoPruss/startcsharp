@@ -1,0 +1,15 @@
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\obj\Debug\net8.0\Sem4_Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\obj\Debug\net8.0\Sem4_Task3.AssemblyInfoInputs.cache
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\obj\Debug\net8.0\Sem4_Task3.AssemblyInfo.cs
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\obj\Debug\net8.0\Sem4_Task3.csproj.CoreCompileInputs.cache
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\obj\Debug\net8.0\Sem4_Task3.sourcelink.json
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\bin\Debug\net8.0\Sem4_Task3.exe
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\bin\Debug\net8.0\Sem4_Task3.deps.json
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\bin\Debug\net8.0\Sem4_Task3.runtimeconfig.json
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\bin\Debug\net8.0\Sem4_Task3.dll
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\bin\Debug\net8.0\Sem4_Task3.pdb
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\obj\Debug\net8.0\Sem4_Task3.dll
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\obj\Debug\net8.0\refint\Sem4_Task3.dll
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\obj\Debug\net8.0\Sem4_Task3.pdb
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\obj\Debug\net8.0\Sem4_Task3.genruntimeconfig.cache
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task3\obj\Debug\net8.0\ref\Sem4_Task3.dll

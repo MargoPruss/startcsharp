@@ -1,0 +1,15 @@
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\bin\Debug\net8.0\Sem4_Task2.exe
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\bin\Debug\net8.0\Sem4_Task2.deps.json
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\bin\Debug\net8.0\Sem4_Task2.runtimeconfig.json
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\bin\Debug\net8.0\Sem4_Task2.dll
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\bin\Debug\net8.0\Sem4_Task2.pdb
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\obj\Debug\net8.0\Sem4_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\obj\Debug\net8.0\Sem4_Task2.AssemblyInfoInputs.cache
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\obj\Debug\net8.0\Sem4_Task2.AssemblyInfo.cs
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\obj\Debug\net8.0\Sem4_Task2.csproj.CoreCompileInputs.cache
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\obj\Debug\net8.0\Sem4_Task2.sourcelink.json
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\obj\Debug\net8.0\Sem4_Task2.dll
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\obj\Debug\net8.0\refint\Sem4_Task2.dll
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\obj\Debug\net8.0\Sem4_Task2.pdb
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\obj\Debug\net8.0\Sem4_Task2.genruntimeconfig.cache
+C:\Users\lesma\OneDrive\Рабочий стол\Учеба\Csharp\Sem4\Sem4_Task2\obj\Debug\net8.0\ref\Sem4_Task2.dll
